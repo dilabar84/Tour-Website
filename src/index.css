@@ -40,9 +40,10 @@ body{
     align-items: center;
     padding: 1rem;
     box-shadow: rgba(0,0,0,0.24) 0px 2px 6px;
+    font-size: 0.8rem;
 }
 .image{
-    width: 290px;
+    width: 270px;
     aspect-ratio: 1/1;
     object-fit: cover;
 }
@@ -52,7 +53,7 @@ body{
     color: #1faa59;
 }
 .tour-name{
-    font-size: 1.3rem;
+    font-size: 1.18rem;
 }
 .read-more{
     color: #12b0e8;
